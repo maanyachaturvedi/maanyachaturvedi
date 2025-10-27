@@ -5,9 +5,10 @@ I'm a Computer Science student passionate about building creative and useful app
 - Java
 - C
 - C#
+- Python
+- SQL
 
 ## 📚 Currently Learning
-- Python
 - Javascript
 
 ## 📫 How to reach me
