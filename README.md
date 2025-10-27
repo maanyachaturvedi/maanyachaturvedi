@@ -7,8 +7,6 @@ I'm a Computer Science student passionate about building creative and useful app
 - C#
 - Python
 - SQL
-
-## 📚 Currently Learning
 - Javascript
 
 ## 📫 How to reach me
