@@ -10,5 +10,5 @@ I'm a Computer Science student passionate about building creative and useful app
 - Javascript
 
 ## 📫 How to reach me
-- Email: maanyachaturvedi.1@gmail.com
+- Email: maanya.chaturvedi1@gmail.com
 - LinkedIn: www.linkedin.com/in/maanya-chaturvedi
